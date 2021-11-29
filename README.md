@@ -2,6 +2,10 @@
 
 say something ...
 
+## [GitBook](https://www.gitbook.com/?utm_source=legacy&utm_medium=redirect&utm_campaign=close_legacy)
+[Author: gasolin](https://gasolin.idv.tw/)
+
+ - [Ethereum區塊鏈！智能合約(Smart Contract)與分散式網頁應用(dApp)入門](https://gasolin.gitbooks.io/learn-ethereum-dapp/content/)
 
 ## [it邦幫忙](https://ithelp.ithome.com.tw/)
 [Author: HAO](https://ithelp.ithome.com.tw/users/20119338/ironman)
