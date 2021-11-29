@@ -1,8 +1,13 @@
-https://medium.com/
---> https://econova.medium.com/
-----> https://medium.com/distributed-economy/what-is-the-difference-between-decentralized-and-distributed-systems-f4190a5c6462#:~:text=A%20decentralized%20system%20is%20a%20subset%20of%20a,no%20single%20point%20where%20the%20decision%20is%20made.
+# Studying to do list
 
+say something ...
 
-https://devblogs.microsoft.com
---> https://devblogs.microsoft.com/devops/author/stolee/
-----> https://devblogs.microsoft.com/devops/exploring-new-frontiers-for-git-push-performance/
+## [medium.com](https://medium.com/)
+[Author: MaRi Eagar](https://econova.medium.com/)
+
+[1] [What is the difference between decentralized and distributed systems?](https://medium.com/distributed-economy/what-is-the-difference-between-decentralized-and-distributed-systems-f4190a5c6462)
+
+## [devblogs.microsoft.com](https://devblogs.microsoft.com/)
+[Author: Derrick Stolee](https://devblogs.microsoft.com/devops/author/stolee/)
+
+[1] [Exploring new frontiers for Git push performance](https://devblogs.microsoft.com/devops/exploring-new-frontiers-for-git-push-performance/)
