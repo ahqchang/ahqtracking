@@ -60,8 +60,8 @@ IMtoken 钱包就是这种特殊的 dapp,它集成了一个浏览器,可以加�
 
 - [CONNECT ANDROID DAPP TO ETHEREUM - SETUP/INSTALL/CONFIG](https://www.video-index.com/en/android-dapp-ethereum/english/connect-android-dapp-to-ethereum-setupinstallconfig)
 - [CONNECT ANDROID DAPP TO ETHEREUM - SETUP / INSTALL / CONFIG [PART 1]](https://www.video-index.com/en/ethereum/english/connect-android-dapp-to-ethereum-setup-install-config-part-1)
-- [CONNECT ANDROID DAPP TO ETHEREUM - SETUP / INSTALL / CONFIG [PART 2]](https://www.video-index.com/en/android-dapp-ethereum/english/connect-android-dapp-to-ethereum-create-import-wallet-part-2)
-- [CONNECT ANDROID DAPP TO ETHEREUM - SETUP / INSTALL / CONFIG [PART 3]](https://www.video-index.com/en/android-dapp-ethereum/english/connect-android-dapp-to-ethereum-read-data-from-smart-contracts-part-3)
+- [CONNECT ANDROID DAPP TO ETHEREUM - CREATE / IMPORT WALLET [PART 2]](https://www.video-index.com/en/android-dapp-ethereum/english/connect-android-dapp-to-ethereum-create-import-wallet-part-2)
+- [CONNECT ANDROID DAPP TO ETHEREUM - READ DATA FROM SMART CONTRACTS [PART 3]](https://www.video-index.com/en/android-dapp-ethereum/english/connect-android-dapp-to-ethereum-read-data-from-smart-contracts-part-3)
 
 ## ☗ [it邦幫忙](https://ithelp.ithome.com.tw/)
 [Author: HAO](https://ithelp.ithome.com.tw/users/20119338/ironman)
