@@ -1,9 +1,15 @@
 # Studying to do list
 
-say something ...
+
+
+2020 年開始，區塊鏈 web3.0 顯露趨勢，以 Ethereum 與 Polkadot 為主的 web3.0 生態體系正在快速建構。
+以太坊的功能主流是智能合約，但構成 web3.0 的 "去中心化數據存儲 swarm" 和 "信息通訊協議 whisper" 同樣是重要的。
+
+imToken DAPP：
+https://imtoken.gitbook.io/developers/products/webview/development-guide-for-imtoken-dapp
 
 ## ☗ [GitBook](https://www.gitbook.com/?utm_source=legacy&utm_medium=redirect&utm_campaign=close_legacy)
-[Author: gasolin](https://gasolin.idv.tw/)
+[Author: Gasolin](https://gasolin.idv.tw/)
 
  - [Ethereum區塊鏈！智能合約(Smart Contract)與分散式網頁應用(dApp)入門](https://gasolin.gitbooks.io/learn-ethereum-dapp/content/)
 
@@ -25,3 +31,11 @@ say something ...
 [Author: Derrick Stolee](https://devblogs.microsoft.com/devops/author/stolee/)
 
  - [Exploring new frontiers for Git push performance](https://devblogs.microsoft.com/devops/exploring-new-frontiers-for-git-push-performance/)
+
+## ☗ [Ethereum](https://blog.ethereum.org/)
+[Author: Taylor Gerring](https://blockchain-documentary.com/taylor-gerring-ethereum/)
+
+ - [building the decentralized web 3.0](https://blog.ethereum.org/2014/08/18/building-decentralized-web/)
+
+## ☖ [未整理]
+ - [介紹整理論文 references 的工具](https://www.lxws.net/ask.php?id=1593)
