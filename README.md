@@ -1,5 +1,9 @@
 # Studying to do list
 
+去中心化 App（DecentralizedApplications，DApp）
+傳統 App 不論是 native 或是 web-based application，都是對接單一中心化的後端系統。
+去中心化 App，則是透過智能合約對接
+
 2020 年開始，區塊鏈 web3.0 顯露趨勢，以 Ethereum 與 Polkadot 為主的 web3.0 生態體系正在快速建構。
 以太坊的主流功能是智能合約，但構成 web3.0 的 "去中心化數據存儲 swarm" 和 "信息通訊協議 whisper" 也同樣重要。
 
@@ -12,7 +16,7 @@
    > git clone git@github.com:consenlabs/token-getting-started.git
  - 如何部署 DApp？
 
-   觀察上方的體驗功能，目前看來是開發者自行部署，但是由 imToken 特製的 webview 來載入執行程式碼中的特別 API
+   觀察上方的體驗功能，目前看來是開發者自行部署，然後必須使用 imToken 特製的 webview 來載入執行程式碼中的特別 API
 
 ————————————————
 
@@ -40,6 +44,11 @@ DeFi平台利用區塊鏈上的智慧型合約進行金融活動，允許人們�
 [Author: Gasolin](https://gasolin.idv.tw/)
 
  - [Ethereum區塊鏈！智能合約(Smart Contract)與分散式網頁應用(dApp)入門](https://gasolin.gitbooks.io/learn-ethereum-dapp/content/)
+
+[Author: Happypeter](https://happypeter.github.io/)
+
+ - [以太坊世界观下的 DApp](https://happypeter.github.io/binfo/dapp)
+ - [快乐区块维基](https://happypeter.github.io/binfo/)
 
 ## ☗ [it邦幫忙](https://ithelp.ithome.com.tw/)
 [Author: HAO](https://ithelp.ithome.com.tw/users/20119338/ironman)
