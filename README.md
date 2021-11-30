@@ -1,8 +1,9 @@
 # Studying to do list
 
 去中心化 App（DecentralizedApplications，DApp）
-傳統 App 不論是 native 或是 web-based application，都是與特定組織（國家）的後端系統互動。
-去中心化 App，則是透過智能合約對接區塊鏈，藉著區塊鏈去中心化的特性可以解耦特定組織（國家）對系統的影響。
+
+ - 傳統 App 不論是 native 或是 web-based application，都是與特定組織（國家）的後端系統互動。
+ - 去中心化 App，則是透過智能合約對接區塊鏈，藉著區塊鏈去中心化的特性可以解耦特定組織（國家）對系統的影響。
 
 2020 年開始，區塊鏈 web3.0 顯露趨勢，以 Ethereum 與 Polkadot 為主的 web3.0 生態體系正在快速建構。
 以太坊的主流功能是智能合約，但構成 web3.0 的 "去中心化數據存儲 swarm" 和 "信息通訊協議 whisper" 也同樣重要。
