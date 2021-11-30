@@ -1,13 +1,15 @@
 # Studying to do list
 
-去中心化 App（DecentralizedApplications，DApp）
-
+App 與 DApp
  - 傳統 App 不論是 native 或是 web-based application，都是與特定組織（國家）的後端系統互動。
- - 去中心化 App，則是透過智能合約對接區塊鏈，藉著區塊鏈去中心化的特性可以解耦特定組織（國家）對系統的影響。
+ - 去中心化 App（DecentralizedApplications，DApp）是透過智能合約對接區塊鏈，藉著區塊鏈去中心化的特性可以有若干好處：
+   - 解耦特定組織（國家）對系統的影響
+   - 利益的分配是对全部参与者都公平的
+
+ https://geth.ethereum.org/docs/dapp/mobile
 
 2020 年開始，區塊鏈 web3.0 顯露趨勢，以 Ethereum 與 Polkadot 為主的 web3.0 生態體系正在快速建構。
 以太坊的主流功能是智能合約，但構成 web3.0 的 "去中心化數據存儲 swarm" 和 "信息通訊協議 whisper" 也同樣重要。
-
 
 摸索：[指引开发 imToken DApp](https://imtoken.gitbook.io/developers/v/zh/products/webview/development-guide-for-imtoken-dapp)
  - 直接體驗 imToken [官方 DApp 範例專案](https://github.com/consenlabs/token-getting-started)
@@ -43,8 +45,6 @@ IMtoken 钱包就是这种特殊的 dapp,它集成了一个浏览器,可以加�
 
 ————————————————
 
-
-
 ## ☗ [GitBook](https://www.gitbook.com/?utm_source=legacy&utm_medium=redirect&utm_campaign=close_legacy)
 [Author: Gasolin](https://gasolin.idv.tw/)
 
@@ -54,6 +54,14 @@ IMtoken 钱包就是这种特殊的 dapp,它集成了一个浏览器,可以加�
 
  - [以太坊世界观下的 DApp](https://happypeter.github.io/binfo/dapp)
  - [快乐区块维基](https://happypeter.github.io/binfo/)
+
+## ☗ [video-index](https://www.video-index.com/en)
+[Author: POCKET NETWORK](https://www.video-index.com/en/video-owner/pocket%20network)
+
+- [CONNECT ANDROID DAPP TO ETHEREUM - SETUP/INSTALL/CONFIG](https://www.video-index.com/en/android-dapp-ethereum/english/connect-android-dapp-to-ethereum-setupinstallconfig)
+- [CONNECT ANDROID DAPP TO ETHEREUM - SETUP / INSTALL / CONFIG [PART 1]](https://www.video-index.com/en/ethereum/english/connect-android-dapp-to-ethereum-setup-install-config-part-1)
+- [CONNECT ANDROID DAPP TO ETHEREUM - SETUP / INSTALL / CONFIG [PART 2]](https://www.video-index.com/en/android-dapp-ethereum/english/connect-android-dapp-to-ethereum-create-import-wallet-part-2)
+- [CONNECT ANDROID DAPP TO ETHEREUM - SETUP / INSTALL / CONFIG [PART 3]](https://www.video-index.com/en/android-dapp-ethereum/english/connect-android-dapp-to-ethereum-read-data-from-smart-contracts-part-3)
 
 ## ☗ [it邦幫忙](https://ithelp.ithome.com.tw/)
 [Author: HAO](https://ithelp.ithome.com.tw/users/20119338/ironman)
