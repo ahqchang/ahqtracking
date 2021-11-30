@@ -31,6 +31,9 @@ App 與 DApp
 [Web3j: Web3 Java Ethereum Ðapp API](https://github.com/web3j/web3j)
 Web3j is a lightweight, highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on the Ethereum network:
 
+[Web3.swift: Web3 swift Ethereum Ðapp API](https://github.com/Boilertalk/Web3.swift)
+Web3.swift is a Swift library for signing transactions and interacting with Smart Contracts in the Ethereum Network.
+
 ————————————————
 
 [去中心化金融 (DeFi, Decentralized finance)](https://zh.wikipedia.org/zh-tw/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D)
