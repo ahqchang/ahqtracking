@@ -41,3 +41,4 @@
  - [介紹整理論文 references 的工具](https://www.lxws.net/ask.php?id=1593)
  - [漫谈容器发展史](liupzmin.com/2019/11/06/docker/container-chat/)
  - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+ - [2020年仍然有效的一些XSS Payload](https://www.freebuf.com/articles/web/226719.html)
