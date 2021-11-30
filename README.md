@@ -13,6 +13,7 @@
  - 如何部署 DApp？
 
    觀察上方的體驗功能，目前看來是開發者自行部署，但是由 imToken 特製的 webview 來載入執行程式碼中的特別 API
+
 ————————————————
 
 [imtoken dapp 开发帮助](https://blog.csdn.net/zdyah/article/details/108347580)
@@ -26,6 +27,13 @@ IMtoken 钱包就是这种特殊的 dapp,它集成了一个浏览器,可以加�
 也就是你的网站只能在这类app中打开,才能使用他们的函数库
 
 ————————————————
+
+[去中心化金融 (DeFi, Decentralized finance)](https://zh.wikipedia.org/zh-tw/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D)
+DeFi平台利用區塊鏈上的智慧型合約進行金融活動，允許人們向他人借出或借入資金，交易加密貨幣，並在類似儲蓄的帳戶中獲得利息。
+
+————————————————
+
+
 
 
 ## ☗ [GitBook](https://www.gitbook.com/?utm_source=legacy&utm_medium=redirect&utm_campaign=close_legacy)
