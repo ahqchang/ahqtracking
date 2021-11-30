@@ -37,5 +37,7 @@
  - [building the decentralized web 3.0](https://blog.ethereum.org/2014/08/18/building-decentralized-web/)
 
 ## ☖ [未整理]
- - [介紹整理論文 references 的工具](https://www.lxws.net/ask.php?id=1593)
  - [指引开发 imToken DApp ](https://imtoken.gitbook.io/developers/v/zh/products/webview/development-guide-for-imtoken-dapp)
+ - [介紹整理論文 references 的工具](https://www.lxws.net/ask.php?id=1593)
+ - [漫谈容器发展史](liupzmin.com/2019/11/06/docker/container-chat/)
+ - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
