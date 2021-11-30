@@ -5,8 +5,7 @@
 2020 年開始，區塊鏈 web3.0 顯露趨勢，以 Ethereum 與 Polkadot 為主的 web3.0 生態體系正在快速建構。
 以太坊的功能主流是智能合約，但構成 web3.0 的 "去中心化數據存儲 swarm" 和 "信息通訊協議 whisper" 同樣是重要的。
 
-imToken DAPP：
-https://imtoken.gitbook.io/developers/products/webview/development-guide-for-imtoken-dapp
+
 
 ## ☗ [GitBook](https://www.gitbook.com/?utm_source=legacy&utm_medium=redirect&utm_campaign=close_legacy)
 [Author: Gasolin](https://gasolin.idv.tw/)
@@ -39,3 +38,4 @@ https://imtoken.gitbook.io/developers/products/webview/development-guide-for-imt
 
 ## ☖ [未整理]
  - [介紹整理論文 references 的工具](https://www.lxws.net/ask.php?id=1593)
+ - [指引开发 imToken DApp ](https://imtoken.gitbook.io/developers/v/zh/products/webview/development-guide-for-imtoken-dapp)
