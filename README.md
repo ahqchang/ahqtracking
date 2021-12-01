@@ -21,6 +21,14 @@ App 與 DApp
 
    觀察上方的體驗功能，目前看來是開發者自行部署，然後必須使用 imToken 特製的 webview 來載入執行程式碼中的特別 API
 
+ - 現今有許多Dapp Librarys可以用來跟Ethereum網路溝通，像是由Java撰寫web3J，python的Web3.py和.Net的nethereum。今天要介紹的Web3.js則是由Javascript撰寫的Ethereum JavaScript API。Web3.js提供了一些基本操作，譬如getBalane()、sendTransaction()…等，也可以利用 Web3.js來幫我們佈署smart contract到Ethereum網路上。使用者可以利用Web3.js提供的界面來跟Metamask或Geth Node，甚至是Ganache Testrpc互動。
+PS: Ganache Testrpc是專門用來模擬私人Ethereum網路環境的工具，只在本地端的電腦上運行，資料只存放在Memory中。重開後等同於建立另一個全新的私人Ethereum網路。適合前期拿來開發Dapp功能。
+[(ref: Ethereum Dapp初心者之路(5): 簡介Web3 Javascript API及常用操作)](https://ksin751119.medium.com/ethereum-dapp%E5%88%9D%E5%BF%83%E8%80%85%E4%B9%8B%E8%B7%AF-5-%E7%B0%A1%E4%BB%8Bweb3-javascript-api%E5%8F%8A%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C-253c468450c0)
+
+
+
+
+
 
 
 虛擬貨幣轉帳，要留意代幣標準（例如：ERC 20、ERC 777、BEP 20 ...），在不兼容的標準之間交易
