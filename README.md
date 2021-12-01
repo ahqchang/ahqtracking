@@ -21,6 +21,14 @@ App 與 DApp
 
    觀察上方的體驗功能，目前看來是開發者自行部署，然後必須使用 imToken 特製的 webview 來載入執行程式碼中的特別 API
 
+
+
+虛擬貨幣轉帳，要留意代幣標準（例如：ERC 20、ERC 777、BEP 20 ...），在不兼容的標準之間交易
+比方說：幣安智能鏈（BEP-20）與以太坊（ERC-20）
+這部分當下筆者已知的有[幣安橋](https://academy.binance.com/zt/articles/an-introduction-to-binance-bridge)可提升不同區塊鏈之間的互操作性，讓任何人將其加密資產，兌換成幣安鏈和幣安智能鏈的打包代幣 (或從代幣換回加密資產)。
+
+
+
 ————————————————
 
 [快乐区块维基](https://happypeter.github.io/binfo/)
