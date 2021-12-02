@@ -36,6 +36,9 @@ PS: Ganache Testrpc是專門用來模擬私人Ethereum網路環境的工具，�
 這部分當下筆者已知的有[幣安橋](https://academy.binance.com/zt/articles/an-introduction-to-binance-bridge)可提升不同區塊鏈之間的互操作性，讓任何人將其加密資產，兌換成幣安鏈和幣安智能鏈的打包代幣 (或從代幣換回加密資產)。
 
 
+[以太坊開發者工具列表](https://www.gushiciku.cn/pl/p9Ut/zh-tw)
+
+
 
 ————————————————
 
