@@ -17,8 +17,12 @@ App 與 DApp
    安裝 imToken App，註冊登入後透過右上角的 QR Code 掃碼功能掃描 [QR Code](https://imtoken.gitbook.io/developers/v/zh/products/webview/development-guide-for-imtoken-dapp#zhi-jie-yu-lan-xiang-mu)
  - Clone 官方 DApp 範例專案，參考上一部的體驗內容追蹤程式碼
    > git clone git@github.com:consenlabs/token-getting-started.git
- - 如何部署 DApp？
 
+   [TransactionEncoder.signMessage方法代码示例](https://vimsky.com/examples/detail/java-method-org.web3j.crypto.TransactionEncoder.signMessage.html)
+ - 如何部署 DApp？
+   > yun install && yun run dev
+
+   部署就老樣子
    觀察上方的體驗功能，目前看來是開發者自行部署，然後必須使用 imToken 特製的 webview 來載入執行程式碼中的特別 API
 
  - 現今有許多Dapp Librarys可以用來跟Ethereum網路溝通，像是由Java撰寫web3J，python的Web3.py和.Net的nethereum。今天要介紹的Web3.js則是由Javascript撰寫的Ethereum JavaScript API。Web3.js提供了一些基本操作，譬如getBalane()、sendTransaction()…等，也可以利用 Web3.js來幫我們佈署smart contract到Ethereum網路上。使用者可以利用Web3.js提供的界面來跟Metamask或Geth Node，甚至是Ganache Testrpc互動。
@@ -36,7 +40,13 @@ PS: Ganache Testrpc是專門用來模擬私人Ethereum網路環境的工具，�
 這部分當下筆者已知的有[幣安橋](https://academy.binance.com/zt/articles/an-introduction-to-binance-bridge)可提升不同區塊鏈之間的互操作性，讓任何人將其加密資產，兌換成幣安鏈和幣安智能鏈的打包代幣 (或從代幣換回加密資產)。
 
 
+
+Popular exchanges that fall into this category are Coinbase, Binance, Kraken, and Gemini. These exchanges are private companies that offer platforms to trade cryptocurrency. These exchanges require registration and identification, known as the Know Your Customer (or Know Your Client) rule.
+
+
+
 [以太坊開發者工具列表](https://www.gushiciku.cn/pl/p9Ut/zh-tw)
+以太坊的2個主要的客戶端軟體是Geth和Parity。
 
 
 
