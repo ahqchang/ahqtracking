@@ -68,6 +68,9 @@ Web3.swift is a Swift library for signing transactions and interacting with Smar
 
  - [imtoken dapp 开发帮助](https://blog.csdn.net/zdyah/article/details/108347580)
 
+[去中心化加密货币钱包系统设计](https://zhuanlan.zhihu.com/p/43906328?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=900034278698680320)
+
+
 PS: Ganache Testrpc是專門用來模擬私人Ethereum網路環境的工具，只在本地端的電腦上運行，資料只存放在Memory中。重開後等同於建立另一個全新的私人Ethereum網路。適合前期拿來開發Dapp功能。
 [(ref: Ethereum Dapp初心者之路(5): 簡介Web3 Javascript API及常用操作)](https://ksin751119.medium.com/ethereum-dapp%E5%88%9D%E5%BF%83%E8%80%85%E4%B9%8B%E8%B7%AF-5-%E7%B0%A1%E4%BB%8Bweb3-javascript-api%E5%8F%8A%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C-253c468450c0)
 
@@ -85,6 +88,10 @@ AMM 技術雖然得到了飛速的發展，近期被很多人所追捧，但並�
 DEX（Decentralized Exchanges，去中心化交易所）
 
 CEX（Centralized Exchange，中心化交易所）
+
+Nonce(number once) 代表只能被使用一次的亂數，或者叫做不重覆性的亂數：
+ - [什麼是挖礦中的 Nonce?](https://0xzx.com/zh-tw/2021100422051781164.html)
+ - [挖礦 = 求解一個合適的nonce整數，區塊鏈與加密數字貨幣知識](https://www.gushiciku.cn/pl/pLml/zh-tw)
 
 虛擬貨幣轉帳，要留意代幣標準（例如：ERC 20、ERC 777、BEP 20 ...），在不兼容的標準之間交易
 比方說：幣安智能鏈（BEP-20）與以太坊（ERC-20）
