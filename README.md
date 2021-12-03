@@ -11,7 +11,12 @@ App 與 DApp
    - 解耦特定組織（國家）對系統的影響
    - 利益的分配是对全部参与者都公平的
 
-![App 與 DApp 差別示意圖](https://www.researchgate.net/publication/342343000/figure/fig2/AS:904663155109888@1592699912831/Traditional-web-application-architecture-vs-DApp-architecture.jpg)
+   ![App 與 DApp 差別示意圖](https://www.researchgate.net/publication/342343000/figure/fig2/AS:904663155109888@1592699912831/Traditional-web-application-architecture-vs-DApp-architecture.jpg)
+
+   [[figure 1]](https://www.researchgate.net/figure/Traditional-web-application-architecture-vs-DApp-architecture_fig2_342343000)
+
+<hr>
+
 
 
 
