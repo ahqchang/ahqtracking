@@ -1,10 +1,19 @@
 # Studying to do list
 
 App 與 DApp
- - 傳統 App 不論是 native 或是 web-based application，都是與特定組織（國家）的後端系統互動。
- - 去中心化 App（DecentralizedApplications，DApp）是透過智能合約對接區塊鏈，藉著區塊鏈去中心化的特性可以有若干好處：
+ - APP <-> 後端 <-> DB數據庫
+   
+   傳統 App 不論是 native 或是 web-based application，都是與特定組織（國家）的後端系統互動。
+
+ - DAPP <-> 以太坊虛擬機上的智能合約 <-> 區塊鏈網路
+   
+   去中心化 App（DecentralizedApplications，DApp）是透過智能合約對接區塊鏈，藉著區塊鏈去中心化的特性可以有若干好處：
    - 解耦特定組織（國家）對系統的影響
    - 利益的分配是对全部参与者都公平的
+
+![App 與 DApp 差別示意圖](https://www.researchgate.net/publication/342343000/figure/fig2/AS:904663155109888@1592699912831/Traditional-web-application-architecture-vs-DApp-architecture.jpg)
+
+
 
  https://geth.ethereum.org/docs/dapp/mobile
 
