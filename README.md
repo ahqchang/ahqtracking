@@ -28,6 +28,11 @@ DApp 開發：
 
 [DApp Mobile API (native)](https://geth.ethereum.org/docs/dapp/mobile)
 
+[Build your first Android Dapp using Web3j and Infura](https://medium.com/@madhurakunjir2611/build-your-first-android-dapp-using-web3j-and-infura-36d2596c1e2a)
+
+[Bitfinex API 使用](https://easonwang.gitbook.io/blockchain/bitfinex-api-shi-yong)
+
+
 
 
 摸索：[指引开发 imToken DApp](https://imtoken.gitbook.io/developers/v/zh/products/webview/development-guide-for-imtoken-dapp)
@@ -110,6 +115,7 @@ DeFi平台利用區塊鏈上的智慧型合約進行金融活動，允許人們�
 
  - [以太坊世界观下的 DApp](https://happypeter.github.io/binfo/dapp)
  - [快乐区块维基](https://happypeter.github.io/binfo/)
+ - [以太坊的 Gas 机制](https://happypeter.github.io/binfo/eth-gas)
 
 ## ☗ [video-index](https://www.video-index.com/en)
 [Author: POCKET NETWORK](https://www.video-index.com/en/video-owner/pocket%20network)
