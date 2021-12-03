@@ -1,5 +1,10 @@
 # Studying to do list
 
+DApp 概念資訊：
+
+2020 年開始，區塊鏈 web3.0 顯露趨勢，以 Ethereum 與 Polkadot 為主的 web3.0 生態體系正在快速建構。
+以太坊的主流功能是智能合約，但構成 web3.0 的 "去中心化數據存儲 swarm" 和 "信息通訊協議 whisper" 也同樣重要。
+
 App 與 DApp
  - APP <-> 後端 <-> DB數據庫
    
@@ -15,12 +20,6 @@ App 與 DApp
 
    [[figure 1]](https://www.researchgate.net/figure/Traditional-web-application-architecture-vs-DApp-architecture_fig2_342343000)
 
-<hr>
-
-DApp 概念資訊：
-
-2020 年開始，區塊鏈 web3.0 顯露趨勢，以 Ethereum 與 Polkadot 為主的 web3.0 生態體系正在快速建構。
-以太坊的主流功能是智能合約，但構成 web3.0 的 "去中心化數據存儲 swarm" 和 "信息通訊協議 whisper" 也同樣重要。
 
 <hr>
 
