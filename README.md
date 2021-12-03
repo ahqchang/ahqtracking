@@ -28,6 +28,7 @@ App 與 DApp
  - 現今有許多Dapp Librarys可以用來跟Ethereum網路溝通，像是由Java撰寫web3J，python的Web3.py和.Net的nethereum。今天要介紹的Web3.js則是由Javascript撰寫的Ethereum JavaScript API。Web3.js提供了一些基本操作，譬如getBalane()、sendTransaction()…等，也可以利用 Web3.js來幫我們佈署smart contract到Ethereum網路上。使用者可以利用Web3.js提供的界面來跟Metamask或Geth Node，甚至是Ganache Testrpc互動。
  - [詳細教程：用Ethers.js构建一个简单的DApp](https://learnblockchain.cn/article/339)
  - [以太坊手把手空氣幣發幣教學 - 割韭菜起手式](https://blog.toright.com/posts/6347/%e4%bb%a5%e5%a4%aa%e5%9d%8a%e6%89%8b%e6%8a%8a%e6%89%8b%e7%99%bc%e5%b9%a3%e6%95%99%e5%ad%b8-%e5%89%b2%e9%9f%ad%e8%8f%9c%e8%b5%b7%e6%89%8b%e5%bc%8f.html)
+ - [使用Node.js在AMM交易所上自动交易代币简单示例](https://blog.csdn.net/weixin_39430411/article/details/117605046)
 
 
 PS: Ganache Testrpc是專門用來模擬私人Ethereum網路環境的工具，只在本地端的電腦上運行，資料只存放在Memory中。重開後等同於建立另一個全新的私人Ethereum網路。適合前期拿來開發Dapp功能。
@@ -35,7 +36,15 @@ PS: Ganache Testrpc是專門用來模擬私人Ethereum網路環境的工具，�
 
 
 
+AMM（Automated Market Maker，自動做市商）
+任何市場都可能存在沒有足夠的有機流動性以支持活躍的交易的狀況，做市商本質上就是通過促進這些市場中不會發生的交易來緩解這一問題的代理商。在傳統的 CEX 裡許多做市商都是專業的團隊或是機構。而 AMM ( Automated Market Maker )，相當於把他們這個角色給真正的去中心化了。
+每個用戶都可以把自己的代幣扔到流動池里，成為一個小的做市商，然後享受交易對手續費分紅。且流動池資金是去中心化開源合約控制，AMM 交易數據全部上鏈，不像傳統 CEX 的平台幣銷毀或是分紅，畢竟沒有人知道他們手續費真的掙了多少，平台幣流通了多少等等……而在 AMM 這裡，一切透明。
+更重要的是，你的資產依舊在你個人控制的錢包里，而不是進了交易平台，所以資產依舊 100% 安全，這是傳統 CEX 無論如何不可能實現的。
+AMM 技術雖然得到了飛速的發展，近期被很多人所追捧，但並不是完全沒有風險的，其中一個風險就是其中的[無常損失](https://academy.binance.com/zt/articles/impermanent-loss-explained)。
 
+DEX（Decentralized Exchanges，去中心化交易所）
+
+CEX（Centralized Exchange，中心化交易所）
 
 
 
