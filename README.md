@@ -79,19 +79,28 @@ PS: Ganache Testrpc是專門用來模擬私人Ethereum網路環境的工具，�
 
 備註：名詞資訊、注意事項 ....：
 
-AMM（Automated Market Maker，自動做市商）
-任何市場都可能存在沒有足夠的有機流動性以支持活躍的交易的狀況，做市商本質上就是通過促進這些市場中不會發生的交易來緩解這一問題的代理商。在傳統的 CEX 裡許多做市商都是專業的團隊或是機構。而 AMM ( Automated Market Maker )，相當於把他們這個角色給真正的去中心化了。
-每個用戶都可以把自己的代幣扔到流動池里，成為一個小的做市商，然後享受交易對手續費分紅。且流動池資金是去中心化開源合約控制，AMM 交易數據全部上鏈，不像傳統 CEX 的平台幣銷毀或是分紅，畢竟沒有人知道他們手續費真的掙了多少，平台幣流通了多少等等……而在 AMM 這裡，一切透明。
-更重要的是，你的資產依舊在你個人控制的錢包里，而不是進了交易平台，所以資產依舊 100% 安全，這是傳統 CEX 無論如何不可能實現的。
-AMM 技術雖然得到了飛速的發展，近期被很多人所追捧，但並不是完全沒有風險的，其中一個風險就是其中的[無常損失](https://academy.binance.com/zt/articles/impermanent-loss-explained)。
+[去中心化金融 (DeFi, Decentralized finance)](https://zh.wikipedia.org/zh-tw/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D)
+DeFi平台利用區塊鏈上的智慧型合約進行金融活動，允許人們向他人借出或借入資金，交易加密貨幣，並在類似儲蓄的帳戶中獲得利息。
 
 DEX（Decentralized Exchanges，去中心化交易所）
 
 CEX（Centralized Exchange，中心化交易所）
 
+TX（Crypto Transaction，加密交易）
+
+Ledgers（帳務資訊）
+
 Nonce(number once) 代表只能被使用一次的亂數，或者叫做不重覆性的亂數：
  - [什麼是挖礦中的 Nonce?](https://0xzx.com/zh-tw/2021100422051781164.html)
  - [挖礦 = 求解一個合適的nonce整數，區塊鏈與加密數字貨幣知識](https://www.gushiciku.cn/pl/pLml/zh-tw)
+
+
+
+AMM（Automated Market Maker，自動做市商）
+任何市場都可能存在沒有足夠的有機流動性以支持活躍的交易的狀況，做市商本質上就是通過促進這些市場中不會發生的交易來緩解這一問題的代理商。在傳統的 CEX 裡許多做市商都是專業的團隊或是機構。而 AMM ( Automated Market Maker )，相當於把他們這個角色給真正的去中心化了。
+每個用戶都可以把自己的代幣扔到流動池里，成為一個小的做市商，然後享受交易對手續費分紅。且流動池資金是去中心化開源合約控制，AMM 交易數據全部上鏈，不像傳統 CEX 的平台幣銷毀或是分紅，畢竟沒有人知道他們手續費真的掙了多少，平台幣流通了多少等等……而在 AMM 這裡，一切透明。
+更重要的是，你的資產依舊在你個人控制的錢包里，而不是進了交易平台，所以資產依舊 100% 安全，這是傳統 CEX 無論如何不可能實現的。
+AMM 技術雖然得到了飛速的發展，近期被很多人所追捧，但並不是完全沒有風險的，其中一個風險就是其中的[無常損失](https://academy.binance.com/zt/articles/impermanent-loss-explained)。
 
 虛擬貨幣轉帳，要留意代幣標準（例如：ERC 20、ERC 777、BEP 20 ...），在不兼容的標準之間交易
 比方說：幣安智能鏈（BEP-20）與以太坊（ERC-20）
@@ -99,8 +108,7 @@ Nonce(number once) 代表只能被使用一次的亂數，或者叫做不重覆�
 
 Popular exchanges that fall into this category are Coinbase, Binance, Kraken, and Gemini. These exchanges are private companies that offer platforms to trade cryptocurrency. These exchanges require registration and identification, known as the Know Your Customer (or Know Your Client) rule.
 
-[去中心化金融 (DeFi, Decentralized finance)](https://zh.wikipedia.org/zh-tw/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D)
-DeFi平台利用區塊鏈上的智慧型合約進行金融活動，允許人們向他人借出或借入資金，交易加密貨幣，並在類似儲蓄的帳戶中獲得利息。
+
 
 
 
@@ -166,5 +174,6 @@ DeFi平台利用區塊鏈上的智慧型合約進行金融活動，允許人們�
  - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
  - [2020年仍然有效的一些XSS Payload](https://www.freebuf.com/articles/web/226719.html)
  - [好的開始 Shell Script](http://billie66.github.io/TLCL/book/index.html)
+ - [Flutter混编之路——开发集成（iOS篇）](https://www.jianshu.com/p/48a9083ebe89)
 
 
