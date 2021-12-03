@@ -5,7 +5,7 @@ App 與 DApp
    
    傳統 App 不論是 native 或是 web-based application，都是與特定組織（國家）的後端系統互動。
 
- - DAPP <-> 以太坊虛擬機上的智能合約 <-> 區塊鏈網路
+ - DAPP <-> 以太坊虛擬機上的[智能合約](https://blockcast.it/2018/03/11/what-is-a-smart-contract/) <-> 區塊鏈網路
    
    去中心化 App（DecentralizedApplications，DApp）是透過智能合約對接區塊鏈，藉著區塊鏈去中心化的特性可以有若干好處：
    - 解耦特定組織（國家）對系統的影響
