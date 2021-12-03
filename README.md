@@ -17,13 +17,18 @@ App 與 DApp
 
 <hr>
 
-
-
-
- https://geth.ethereum.org/docs/dapp/mobile
+DApp 概念資訊：
 
 2020 年開始，區塊鏈 web3.0 顯露趨勢，以 Ethereum 與 Polkadot 為主的 web3.0 生態體系正在快速建構。
 以太坊的主流功能是智能合約，但構成 web3.0 的 "去中心化數據存儲 swarm" 和 "信息通訊協議 whisper" 也同樣重要。
+
+<hr>
+
+DApp 開發：
+
+[DApp Mobile API (native)](https://geth.ethereum.org/docs/dapp/mobile)
+
+
 
 摸索：[指引开发 imToken DApp](https://imtoken.gitbook.io/developers/v/zh/products/webview/development-guide-for-imtoken-dapp)
  - 直接體驗 imToken [官方 DApp 範例專案](https://github.com/consenlabs/token-getting-started)
@@ -40,15 +45,31 @@ App 與 DApp
    觀察上方的體驗功能，目前看來是開發者自行部署，然後必須使用 imToken 特製的 webview 來載入執行程式碼中的特別 API
 
  - 現今有許多Dapp Librarys可以用來跟Ethereum網路溝通，像是由Java撰寫web3J，python的Web3.py和.Net的nethereum。今天要介紹的Web3.js則是由Javascript撰寫的Ethereum JavaScript API。Web3.js提供了一些基本操作，譬如getBalane()、sendTransaction()…等，也可以利用 Web3.js來幫我們佈署smart contract到Ethereum網路上。使用者可以利用Web3.js提供的界面來跟Metamask或Geth Node，甚至是Ganache Testrpc互動。
+
  - [詳細教程：用Ethers.js构建一个简单的DApp](https://learnblockchain.cn/article/339)
+
  - [以太坊手把手空氣幣發幣教學 - 割韭菜起手式](https://blog.toright.com/posts/6347/%e4%bb%a5%e5%a4%aa%e5%9d%8a%e6%89%8b%e6%8a%8a%e6%89%8b%e7%99%bc%e5%b9%a3%e6%95%99%e5%ad%b8-%e5%89%b2%e9%9f%ad%e8%8f%9c%e8%b5%b7%e6%89%8b%e5%bc%8f.html)
+
  - [使用Node.js在AMM交易所上自动交易代币简单示例](https://blog.csdn.net/weixin_39430411/article/details/117605046)
 
+ - [以太坊開發者工具列表](https://www.gushiciku.cn/pl/p9Ut/zh-tw)
+以太坊的2個主要的客戶端軟體是Geth和Parity。
+
+ - [Web3j: Web3 Java Ethereum Ðapp API](https://github.com/web3j/web3j)
+Web3j is a lightweight, highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on the Ethereum network:
+
+ - [Web3.swift: Web3 swift Ethereum Ðapp API](https://github.com/Boilertalk/Web3.swift)
+Web3.swift is a Swift library for signing transactions and interacting with Smart Contracts in the Ethereum Network.
+
+ - [imtoken dapp 开发帮助](https://blog.csdn.net/zdyah/article/details/108347580)
 
 PS: Ganache Testrpc是專門用來模擬私人Ethereum網路環境的工具，只在本地端的電腦上運行，資料只存放在Memory中。重開後等同於建立另一個全新的私人Ethereum網路。適合前期拿來開發Dapp功能。
 [(ref: Ethereum Dapp初心者之路(5): 簡介Web3 Javascript API及常用操作)](https://ksin751119.medium.com/ethereum-dapp%E5%88%9D%E5%BF%83%E8%80%85%E4%B9%8B%E8%B7%AF-5-%E7%B0%A1%E4%BB%8Bweb3-javascript-api%E5%8F%8A%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C-253c468450c0)
 
 
+<hr>
+
+備註：名詞資訊、注意事項 ....：
 
 AMM（Automated Market Maker，自動做市商）
 任何市場都可能存在沒有足夠的有機流動性以支持活躍的交易的狀況，做市商本質上就是通過促進這些市場中不會發生的交易來緩解這一問題的代理商。在傳統的 CEX 裡許多做市商都是專業的團隊或是機構。而 AMM ( Automated Market Maker )，相當於把他們這個角色給真正的去中心化了。
@@ -60,20 +81,16 @@ DEX（Decentralized Exchanges，去中心化交易所）
 
 CEX（Centralized Exchange，中心化交易所）
 
-
-
 虛擬貨幣轉帳，要留意代幣標準（例如：ERC 20、ERC 777、BEP 20 ...），在不兼容的標準之間交易
 比方說：幣安智能鏈（BEP-20）與以太坊（ERC-20）
 這部分當下筆者已知的有[幣安橋](https://academy.binance.com/zt/articles/an-introduction-to-binance-bridge)可提升不同區塊鏈之間的互操作性，讓任何人將其加密資產，兌換成幣安鏈和幣安智能鏈的打包代幣 (或從代幣換回加密資產)。
 
-
-
 Popular exchanges that fall into this category are Coinbase, Binance, Kraken, and Gemini. These exchanges are private companies that offer platforms to trade cryptocurrency. These exchanges require registration and identification, known as the Know Your Customer (or Know Your Client) rule.
 
+[去中心化金融 (DeFi, Decentralized finance)](https://zh.wikipedia.org/zh-tw/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D)
+DeFi平台利用區塊鏈上的智慧型合約進行金融活動，允許人們向他人借出或借入資金，交易加密貨幣，並在類似儲蓄的帳戶中獲得利息。
 
 
-[以太坊開發者工具列表](https://www.gushiciku.cn/pl/p9Ut/zh-tw)
-以太坊的2個主要的客戶端軟體是Geth和Parity。
 
 
 
@@ -81,31 +98,6 @@ Popular exchanges that fall into this category are Coinbase, Binance, Kraken, an
 
 [快乐区块维基](https://happypeter.github.io/binfo/)
 快乐区块维基（ Binfo – Blockchain Info ）。学习比特币 ，区块链和 Web3.0 需要掌握很多基础概念，但是如果去看维基百科或者其他材料，会发现内容都太细太深。有没有一个 wiki 网站专注提供区块链内容，且每一篇瞄准一个概念或者一项技术，短小通俗，定位清晰呢？快乐区块维基就是这样一个网站，读者打开每个词条都可以轻松的理解里面每一句话，同时又可以找到跟多拓展阅读内容的链接，技术阅读也能快乐。目前大部分词条都由 happypeter 完成，大家可以 clone 项目来添加新词条，或者点击每个页面末尾的“到 Github 上编辑本页”来修改当前词条。
-
-————————————————
-
-[Web3j: Web3 Java Ethereum Ðapp API](https://github.com/web3j/web3j)
-Web3j is a lightweight, highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on the Ethereum network:
-
-[Web3.swift: Web3 swift Ethereum Ðapp API](https://github.com/Boilertalk/Web3.swift)
-Web3.swift is a Swift library for signing transactions and interacting with Smart Contracts in the Ethereum Network.
-
-————————————————
-
-[去中心化金融 (DeFi, Decentralized finance)](https://zh.wikipedia.org/zh-tw/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E9%87%91%E8%9E%8D)
-DeFi平台利用區塊鏈上的智慧型合約進行金融活動，允許人們向他人借出或借入資金，交易加密貨幣，並在類似儲蓄的帳戶中獲得利息。
-
-————————————————
-
-[imtoken dapp 开发帮助](https://blog.csdn.net/zdyah/article/details/108347580)
-
-有种 app,可以加载 其他dapp网站,网页或者小程序,这种app就是dapp
-有的人说 dapp就是智能合约+App,这是不正确的.只能说 智能合约+App是dapp的一种.
-例如: 微信,支付宝等都是dapp
-IMtoken 钱包就是这种特殊的 dapp,它集成了一个浏览器,可以加载其他的网站, 我们可以开发基于imtoken钱包的网站,
-为什么要开发dapp?为什么需要dapp?因为这些dapp 会提供了 一些 js 特殊对象, 和底层函数库.
-但在pc 浏览器和app 普通浏览器中则没有 专门的函数库.
-也就是你的网站只能在这类app中打开,才能使用他们的函数库
 
 ————————————————
 
